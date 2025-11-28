@@ -1,0 +1,5 @@
+portal.singlestore.com
+api.singlestore.com
+auth.singlestore.com
+authsvc.singlestore.com
+backend.singlestore.com
